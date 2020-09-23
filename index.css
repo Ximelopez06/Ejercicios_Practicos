@@ -1,0 +1,25 @@
+div {
+    height: 100px;
+    width: 100px;
+   display: inline;
+}
+img {
+    height: 100px;
+    width: 100px;
+    
+
+}
+img.perro {
+    height: 200px;
+    width: 200px;
+}
+#main article{
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 7px;
+    background:powderblue;
+    flex: 3 1 60%;
+    order: 2;
+    text-align: center;
+}
